@@ -1,0 +1,27 @@
+
+{
+  "symbol": "EXCD",
+  "name": "Exceed",
+  "type": "ERC20",
+  "address": "0x1eae15d9f4fa16f5278d02d2f8bda8b0dcd31f71",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://https://exceed-io.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "info@exceed-io.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@ExceedICO",
+    "chat": "https://discord.gg/wyEfJQW",
+    "facebook": "https://www.facebook.com/exceedIOEXC/",
+    "forum": "",
+    "github": "https://github.com/ExceedToken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://linkedin.com/in/arthur-lee-martinez-283083165/",
+    "reddit": "",
+    "slack": "https://exceedio.slack.com/",
+    "telegram": "https://t.me/ExceedToken",
+    "twitter": "https://twitter.com/ExceedIOEXC",
+    "youtube": ""
+  }
+}
